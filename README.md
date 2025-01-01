@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Zaeem-Alpha
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 To reach me, just send me a request or text or whatever
+- 👋 Hi, I’m Zaeem Bilal
+This is a simple set of Webpages which shows Japan as a tourist destination
+(You can add your own Pictures, I didn't upload any)
 
 <!---
 Zaeem-Alpha/Zaeem-Alpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
