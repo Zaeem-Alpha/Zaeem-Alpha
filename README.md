@@ -68,5 +68,3 @@ Feel free to reach out — I love learning from others and sharing ideas!
 ---
 
 ## ⭐ **Thanks for Visiting!**
-🔹 Create a **more minimal or more aesthetic** version
-Just tell me!
